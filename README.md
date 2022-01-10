@@ -1,6 +1,6 @@
 ### Hi there, I'm Jason [website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fjason-chau.com)](https://jason-chau.com)
+[![Website](https://img.shields.io/website?label=jason-chau.com&style=for-the-badge&url=https%3A%2F%2Fjason-chau.com)](https://jason-chau.com)
 
 ## I'm a Son, Older Brother, Software Developer, Game Developer and Musician!!
 
