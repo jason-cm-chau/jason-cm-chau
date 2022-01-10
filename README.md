@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="jason-chau.com" width="22px" style="background-color:white; margin-right:10px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="jason-chau.com" width="22px" style="filter:invert(); margin-right:10px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Jason Chau | LinkedIn" width="22px" style="filter:invert()" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
