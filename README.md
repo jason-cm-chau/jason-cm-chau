@@ -7,8 +7,7 @@
 - 🔭 I have recently launched my own website: [Jason Chau!][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other software developers
-- 🥅 2022 Goals: Develop multiple commercial products
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🥅 2026 Goals: Develop multiple commercial products
 
 ### Connect with me:
 
